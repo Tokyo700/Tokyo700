@@ -1,4 +1,5 @@
-<!-- Header -->
+
+"{};'<!-- Header -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Aditya%20Parihar&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
@@ -23,7 +24,7 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 B.Tech student who loves turning ideas into working projects
+- 🎓 BSc.Computer Science student who loves turning ideas into working projects
 - 🌐 Building full-stack web apps with **JavaScript / TypeScript**
 - 🤖 Exploring **TinyML & embedded systems** on the ESP32-S3
 - 🏆 Participating in **Smart India Hackathon** with my team
